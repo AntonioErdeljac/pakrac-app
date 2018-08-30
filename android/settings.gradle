@@ -1,0 +1,3 @@
+rootProject.name = 'Pakrac'
+
+include ':app'
